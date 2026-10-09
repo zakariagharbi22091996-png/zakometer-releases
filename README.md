@@ -4,9 +4,9 @@
 > network traffic on your PC (like every DPS meter): it never touches the game, never
 > injects anything, never automates anything. NCSoft has not banned personal meters; their
 > warning (May 2026) was about tools that collect and publish other players' data without
-> their consent. Zakometer shares your boss fights on its stats site with every player by
-> their class only, never by their name (yours only if you choose). Still, no third-party
-> tool is risk-free, and NCSoft can change its rules at any time.
+> their consent. Zakometer shares your boss fights on its stats site, every player with
+> their name, like the other meters' sites. Still, no third-party tool is risk-free, and
+> NCSoft can change its rules at any time.
 > Not affiliated with NCSoft.
 
 **[⬇ Download the latest Zakometer.exe](https://github.com/zakariagharbi22091996-png/zakometer-releases/releases/latest)**
@@ -58,10 +58,9 @@ is never set against Nightmare 1, Conquest never against Exploration).
 ## Privacy and Zakometer Logs
 
 Your **boss fights** go to **[Zakometer Logs](https://zakometer.pages.dev)**, the free stats site
-(DPS of every class on every boss and level, rankings), when they end: damage, skills,
-deaths, combat power rounded to 5K. **Every player by their class only, never by their name**;
-your own name only if you turn it on (Settings → *Show my name on Zakometer Logs*). Turn the
-sharing off at any time: Settings → *Share my boss fights*.
+(rankings, classes, top 10, timers, every fight in detail) when they end: every player of
+the fight with their name, class, damage, skills, deaths and combat power (rounded to 5K).
+Turn the sharing off at any time: Settings → *Share my boss fights*.
 
 Nothing else leaves your PC. Zakometer also goes online to check this page for a newer
 version (nothing about you is sent; you can turn it off) and when **you** search a character
