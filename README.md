@@ -4,8 +4,9 @@
 > network traffic on your PC (like every DPS meter): it never touches the game, never
 > injects anything, never automates anything. NCSoft has not banned personal meters; their
 > warning (May 2026) was about tools that collect and publish other players' data without
-> their consent. Zakometer keeps everything on your PC and publishes nothing. Still, no
-> third-party tool is risk-free, and NCSoft can change its rules at any time.
+> their consent. Zakometer shares your boss fights on its stats site with every player by
+> their class only, never by their name (yours only if you choose). Still, no third-party
+> tool is risk-free, and NCSoft can change its rules at any time.
 > Not affiliated with NCSoft.
 
 **[⬇ Download the latest Zakometer.exe](https://github.com/zakariagharbi22091996-png/zakometer-releases/releases/latest)**
@@ -54,12 +55,17 @@ is never set against Nightmare 1, Conquest never against Exploration).
 3. Play Aion 2 in windowed or borderless mode. Your character is recognised the next time
    you change zone or teleport.
 
-## Privacy
+## Privacy and Zakometer Logs
 
-Everything stays on your PC (fights, summaries, logs). Zakometer goes online only:
-- at start (and every 6 h) to check this page for a newer version (nothing about you is sent;
-  you can turn it off in the settings);
-- when **you** search a character or read a sheet (NCSoft's official site).
+Your **boss fights** go to **[Zakometer Logs](https://zakometer.pages.dev)**, the free stats site
+(DPS of every class on every boss and level, rankings), when they end: damage, skills,
+deaths, combat power rounded to 5K. **Every player by their class only, never by their name**;
+your own name only if you turn it on (Settings → *Show my name on Zakometer Logs*). Turn the
+sharing off at any time: Settings → *Share my boss fights*.
+
+Nothing else leaves your PC. Zakometer also goes online to check this page for a newer
+version (nothing about you is sent; you can turn it off) and when **you** search a character
+(NCSoft's official site).
 
 ## Updates
 
