@@ -32,6 +32,9 @@
   every class.
 - **My upgrade plan** (menu): the Optimizer on your character, with your Odyle: what to
   upgrade next, what your Kinah buys best, where to spend your Odyle, what a craft really costs.
+- **My materials** (menu): your bag and your warehouse as the game sends them, priced on your
+  server's market (prices: [Aion 2 Exchange](https://aion2.exchange), with its creator's
+  permission), when to sell, and what they craft (each step's success, the 25 % combo).
 - **PvP logs**: each death / kill / assist with the 20 s before it, and the enemies' rotation
   skill by skill.
 - **Damage tests**: your DPS over an exact time on a dummy, with a sound at the start and the
@@ -74,7 +77,8 @@ Turn the sharing off at any time: Settings → *Share my boss fights*.
 
 Nothing else leaves your PC. Zakometer also goes online to check this page for a newer
 version (nothing about you is sent; you can turn it off), to read the event times from
-Zakometer Logs (your server's number only), and when **you** search a character, read a
+Zakometer Logs (your server's number only), when **you** open My materials (sent once to be
+priced, never kept), and when **you** search a character, read a
 player's gear (NCSoft's official site, and Zakometer Logs for the gear advice) or start a damage
 test (your character's gear for the test).
 
