@@ -17,8 +17,9 @@
 
 - **Live overlay**: you and your party, damage / healing / damage taken, boss HP and time
   left, your resurrection stones, where you are (dungeon and mode, Transcendence, Nightmare
-  level, Abyss, arena). In the open world, random players are hidden, except on a field boss
-  or an event.
+  level, Abyss, arena). Out of dungeons you see your group only, world bosses included (every
+  player is still recorded: the event's summary lists them all). In dungeons the bars show
+  the bosses (the trash phases on request).
 - **Room check**: join a room and see who is in it before the run: class, item level,
   combat power, who leads. Anyone on your blacklist shows up in red.
 - **Dungeon summary** when you leave: everyone's damage over the whole run, bosses, fights,
@@ -29,6 +30,11 @@
   each fix priced in % of DPS (rotation, skill levels, manastones, gear). Works for every class.
 - **PvP logs**: each death / kill / assist with the 20 s before it, and the enemies' rotation
   skill by skill.
+- **Damage tests**: your DPS over an exact time on a dummy, with a sound at the start and the
+  end, your critical / perfect / double / multi-hit rates, and for two tests: was the gap luck
+  or real, and what changed between the two sets (skills, gear, combat speed).
+- **Event alarms**: Shugo Festival, rifts, sieges, arena, Abyss bosses and the field bosses of
+  your map (live times for your server), a few minutes before, each with its own sound.
 - **My progress**: item level, combat power, critical hit, your DPS week by week, one boss
   in detail.
 - Optional: a soft sound when a skill is ready (you pick the skills, the sound and the
@@ -63,8 +69,9 @@ the fight with their name, class, damage, skills, deaths and combat power (round
 Turn the sharing off at any time: Settings → *Share my boss fights*.
 
 Nothing else leaves your PC. Zakometer also goes online to check this page for a newer
-version (nothing about you is sent; you can turn it off) and when **you** search a character
-(NCSoft's official site).
+version (nothing about you is sent; you can turn it off), to read the event times from
+Zakometer Logs (your server's number only), and when **you** search a character or start a
+damage test (NCSoft's official site: your character's gear for the test).
 
 ## Updates
 
