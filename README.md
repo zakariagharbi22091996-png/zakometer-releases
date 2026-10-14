@@ -30,8 +30,12 @@
   each fix priced in % of DPS (rotation, skill levels), and the gear's next moves from the
   **Optimizer** of Zakometer Logs (replace, soul bind lines, enhance, with their cost). Works for
   every class.
-- **My upgrade plan** (menu): the Optimizer on your character, with your Odyle: what to
-  upgrade next, what your Kinah buys best, where to spend your Odyle, what a craft really costs.
+- **My upgrade plan** (menu), in a window of the meter, every item and skill with its icon:
+  your next moves ranked by the damage they add for the effort (soul bind lines to aim for,
+  best first, weighed with your own crit rate), each piece graded on its own against what its
+  slot can have and the players at your item level, your stats next to those players counted
+  the same way, your rotation boss by boss next to the best of your class, what your Kinah,
+  Abyss Points and other currencies buy (Stigma levels, shop items), where to spend your Odyle.
 - **My materials** (menu): your bag and your warehouse as the game sends them, priced on your
   server's market (prices: [Aion 2 Exchange](https://aion2.exchange), with its creator's
   permission), when to sell, and what they craft (each step's success, the 25 % combo).
@@ -77,8 +81,9 @@ Turn the sharing off at any time: Settings → *Share my boss fights*.
 
 Nothing else leaves your PC. Zakometer also goes online to check this page for a newer
 version (nothing about you is sent; you can turn it off), to read the event times from
-Zakometer Logs (your server's number only), when **you** open My materials (sent once to be
-priced, never kept), and when **you** search a character, read a
+Zakometer Logs (your server's number only), when **you** open My upgrade plan (your
+character's name and server, Odyle, currencies and crit rate, to work out the plan, never
+kept) or My materials (sent once to be priced, never kept), and when **you** search a character, read a
 player's gear (NCSoft's official site, and Zakometer Logs for the gear advice) or start a damage
 test (your character's gear for the test).
 
